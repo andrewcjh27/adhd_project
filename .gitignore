@@ -1,0 +1,7 @@
+data/
+region_data/
+deseq_results/
+.ipynb_checkpoints/
+.DS_Store
+.Rhistory
+.RData

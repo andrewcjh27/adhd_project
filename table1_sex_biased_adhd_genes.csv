@@ -1,0 +1,26 @@
+Gene,Chromosome,Brain region,log2 fold change (M/F),Adjusted p-value,Direction
+ABHD5,3,caudate,-0.174,2.55e-02,Female-biased
+ELOVL1,1,anterior_cingulate,-0.319,1.71e-02,Female-biased
+GASK1A,3,caudate,-0.233,3.89e-02,Female-biased
+GASK1A,3,putamen,-0.332,1.71e-02,Female-biased
+XRN2,20,caudate,-0.113,2.01e-02,Female-biased
+ZNF197,3,caudate,-0.102,2.08e-02,Female-biased
+ZNF197,3,putamen,-0.109,1.82e-02,Female-biased
+ZNF34,8,anterior_cingulate,-0.12,4.52e-02,Female-biased
+ZNF660,3,anterior_cingulate,-0.23,1.05e-02,Female-biased
+ZNF660,3,caudate,-0.232,8.44e-03,Female-biased
+ZNF660,3,nucleus_accumbens,-0.22,3.16e-03,Female-biased
+ZNF660,3,putamen,-0.237,7.86e-03,Female-biased
+ZNF852,3,caudate,-0.156,1.37e-02,Female-biased
+CDH8,16,anterior_cingulate,0.355,3.79e-02,Male-biased
+COL19A1,6,caudate,0.64,1.22e-03,Male-biased
+COL19A1,6,putamen,0.679,2.58e-03,Male-biased
+KIFC2,8,anterior_cingulate,0.275,1.73e-02,Male-biased
+KIFC2,8,caudate,0.378,1.25e-02,Male-biased
+KIFC2,8,putamen,0.375,3.19e-02,Male-biased
+MED8,1,anterior_cingulate,0.122,2.53e-02,Male-biased
+RNF123,3,anterior_cingulate,0.215,3.53e-02,Male-biased
+RNF123,3,caudate,0.178,3.94e-02,Male-biased
+SH3RF2,5,caudate,0.484,1.92e-02,Male-biased
+SH3RF2,5,putamen,0.524,1.59e-02,Male-biased
+SLC33A2,8,nucleus_accumbens,0.177,1.58e-02,Male-biased
